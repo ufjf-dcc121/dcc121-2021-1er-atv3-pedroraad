@@ -1,0 +1,17 @@
+.listaModoDePreparo > li{
+    margin-bottom: 15px;
+}
+
+.listaIngredientes > dt{
+    font-weight: bold;
+}
+
+.listaIngredientes > dd{
+    font-weight: initial;
+    margin-bottom: 7px;
+}
+
+.listaNonBoldItens > li{
+    margin-bottom: 15px;
+    font-weight: initial;
+}
